@@ -1,0 +1,17 @@
+{
+  "schema": "omniwrap.sdk-suite/v1",
+  "generator": "OmniWrap 2.0.0",
+  "product": "jackai-platform-os",
+  "version": "1.0.0",
+  "verifiedInE2B": true,
+  "languages": [
+    "typescript",
+    "javascript",
+    "python",
+    "go",
+    "rust",
+    "java",
+    "dotnet",
+    "kotlin"
+  ]
+}
